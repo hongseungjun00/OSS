@@ -1,7 +1,7 @@
 import pygame, sys
 from pygame.locals import *
 
-#test 2021-03-29 re
+#test 2021-03-29
 # Number of frames per second
 # Change this value to speed up or slow down your game
 FPS = 40
